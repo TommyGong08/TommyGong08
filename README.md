@@ -46,8 +46,8 @@ Currently, I am working as a full-time AOI algorithm engineer at [YMZ Tech](http
 
 ### 🏢 **Experimence**
 #### **After Graduation**
-📝 Algorithmic Engineer at [YMZ Tech](http://www.szymzkj.cn/) ( 2023.3- ) 
-📝 Part time research assistant at BIT ( 2022.7- 2023.1) 
+📝 Algorithmic Engineer at [YMZ Tech](http://www.szymzkj.cn/) ( 2023.3- )   
+📝 Part time research assistant at BIT ( 2022.7- 2023.1)   
   
 #### **Before Graduation**
 📝 Internship in [ByteDance](https://bytedance.com/en/) as Algorithm Engineer develop [Fastbot](https://github.com/bytedance/Fastbot_Android)( 2021.10-2022.3 )  
