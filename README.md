@@ -24,7 +24,7 @@
 
 
 Hi, I'm *GongHailong*, graduated from *Beijing Institute of Techonology* with a major in *Computer Science and Technology*. My research interest is **Autonomous driving** , **Connected and Automated Vehicles**. I take great care in the experience, architecture, and code quality of the things I build.  
-Currently, I am working as a full-time AOI algorithm engineer at [YMZ Tech](http://www.szymzkj.cn/), engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to ask me for internal referral.
+Currently, I am working as a full-time AOI algorithm engineer at [YMZ Tech](http://www.szymzkj.cn/), engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to [email](ghl@szkaima.com) me for internal referral.
   
 - ✍🏻 My CSDN Blog: [TommgGong08](https://blog.csdn.net/weixin_43794327?spm=1000.2115.3001.5343);
 - 👯 Campus Ambassador of [Pony.ai](https://pony.ai/zh/index.html), you can email me for internal referral;
