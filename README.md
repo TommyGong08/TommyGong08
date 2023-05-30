@@ -24,10 +24,10 @@
 
 
 Hi, I'm *GongHailong*, graduated from *Beijing Institute of Techonology* with a major in *Computer Science and Technology*. My research interest is **Autonomous driving** , **Connected and Automated Vehicles**. I take great care in the experience, architecture, and code quality of the things I build.  
-Currently, I am working as a full-time Automated Optical Inspection (AOI) algorithmic engineer at [YMZ Tech](http://www.szymzkj.cn/), engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to [email](mailto:ghl@szkaima.com) me for internal referral.
+Currently, I am working as a full-time Automated Optical Inspection (AOI) algorithmic engineer at [YMZ Tech Ltd.](http://www.szymzkj.cn/), engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to [email](mailto:ghl@szkaima.com) me for internal referral.
   
 - ✍🏻 My CSDN Blog: [TommgGong08](https://blog.csdn.net/weixin_43794327?spm=1000.2115.3001.5343);
-- 👯 AOI engineer at YMZ Tech, you can [email](mailto:ghl@szkaima.com) me for internal referral;
+- 👯 AOI engineer at YMZ Tech Ltd., you can [email](mailto:ghl@szkaima.com) me for internal referral;
 - 📫 How to contact me:**GongHailong2021@163.com**;
 - 💬 Discuss anything with me, I am happy to share.
 
@@ -46,7 +46,7 @@ Currently, I am working as a full-time Automated Optical Inspection (AOI) algori
 
 ### 🏢 **Experimence**
 #### **After Graduation**
-📝 AOI Algorithmic Engineer at [YMZ Tech](http://www.szymzkj.cn/) ( 2023.3- )   
+📝 AOI Algorithmic Engineer at [YMZ Tech Ltd.](http://www.szymzkj.cn/) ( 2023.3- )   
 📝 Part time research assistant at BIT ( 2022.7- 2023.1)   
   
 #### **Before Graduation**
