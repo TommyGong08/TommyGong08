@@ -46,7 +46,7 @@ Currently, I am working as a full-time AOI algorithm engineer at [YMZ Tech](http
 
 ### 🏢 **Experimence**
 #### **After Graduation**
-📝 Computer Vision Algorithmic Engineer at [YMZ Tech](http://www.szymzkj.cn/) ( 2023.3- )   
+📝 Automated Optical Inspection (AOI) Algorithmic Engineer at [YMZ Tech](http://www.szymzkj.cn/) ( 2023.3- )   
 📝 Part time research assistant at BIT ( 2022.7- 2023.1)   
   
 #### **Before Graduation**
