@@ -27,8 +27,8 @@ Hi, I'm *GongHailong*, graduated from *Beijing Institute of Techonology* with a 
 Currently, I am working as a full-time Automated Optical Inspection (AOI) algorithmic engineer at [YMZ Tech Ltd.](http://www.szymzkj.cn/), one of the top AOI companies in China, engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to [email](mailto:ghl@szkaima.com) for the internal referral.
   
 - ✍🏻 My CSDN Blog: [TommgGong08](https://blog.csdn.net/weixin_43794327?spm=1000.2115.3001.5343);
-- 👯 AOI engineer at YMZ Tech Ltd., you can [email](mailto:ghl@szkaima.com) me for internal referral;
-- 📫 How to contact me:**GongHailong2021@163.com**;
+- 👯 AOI engineer at YMZ Tech Ltd., you can email me for internal referral;
+- 📫 How to contact me:[**email1**](hailong.gong@anu.edu.au) or [**email2**](gonghailong2021@163.com);
 - 💬 Discuss anything with me, I am happy to share.
 
 <div align="center">
