@@ -23,13 +23,15 @@
 </div>
 
 
-Hi, I'm *GongHailong*, graduated from *Beijing Institute of Techonology* with a major in *Computer Science and Technology*. My research interest is **Artificial Intelligence** ,  **Computer Vision**, **Parallel Programming**. I care greatly about the experience, architecture, and code quality of the things I build.  
-Currently, I am working as a full-time Automated Optical Inspection (AOI) algorithmic engineer at [YMZ Tech Ltd.](http://www.szymzkj.cn/), one of the top AOI companies in China, engaging in digital image processing and algorithm design. If you are proficient in C++ and image processing, feel free to [email](mailto:ghl@szkaima.com) for the internal referral.
-  
+Hi, I'm *GongHailong*, a postgraduate student at Australian National University. I graduated from *Beijing Institute of Technology* with a major in *Computer Science and Technology*. My research interests are **Artificial Intelligence**,  **Computer Vision**, **Computational Systems **. I care greatly about the experience, architecture, and code quality of the things I build.  
+If you would like to learn more about my experience and previous projects, please visit my [**personal website**](https://tommygong08.github.io/).
+
+<!--
 - ✍🏻 My CSDN Blog: [TommgGong08](https://blog.csdn.net/weixin_43794327?spm=1000.2115.3001.5343);
 - 👯 AOI engineer at YMZ Tech Ltd., you can email me for internal referral;
 - 📫 How to contact me:[**email1**](hailong.gong@anu.edu.au) or [**email2**](gonghailong2021@163.com);
 - 💬 Discuss anything with me, I am happy to share.
+-->
 
 <div align="center">
 
