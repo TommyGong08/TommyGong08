@@ -23,7 +23,7 @@
 </div>
 
 
-Hi, I'm *GongHailong*, a postgraduate student at Australian National University. I graduated from *Beijing Institute of Technology* with a major in *Computer Science and Technology*. My research interests are **Artificial Intelligence**,  **Computer Vision**, **Computational Systems **. I care greatly about the experience, architecture, and code quality of the things I build.  
+Hi, I'm *GongHailong*, a postgraduate student at Australian National University. I graduated from *Beijing Institute of Technology* with a major in *Computer Science and Technology*. My research interests are **Artificial Intelligence**,  **Computer Vision**, **Computational Systems**. I care greatly about the experience, architecture, and code quality of the things I build.  
 If you would like to learn more about my experience and previous projects, please visit my [**personal website**](https://tommygong08.github.io/).
 
 <!--
